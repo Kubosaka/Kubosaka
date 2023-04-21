@@ -1,5 +1,5 @@
 <!-- [![My Qiita posts](https://qiita-badge.apiapi.app/s/Kubosaka/posts.svg)](http://qiita.com/Kubosaka) -->
-<h1 align="center">Hi 👋, I'm Kubosaka</h1>
+<h1 align="center">I'm Kubosaka</h1>
 <h3 align="center">A University students from japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubosaka&label=Profile%20views&color=0e75b6&style=flat" alt="kubosaka" /> </p>
