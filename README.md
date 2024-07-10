@@ -14,9 +14,7 @@
 <a href="https://instagram.com/kubo.s.0907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kubo.s.0907" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/Kubosaka">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kubosaka&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/Kubosaka">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubosaka&layout=compact&theme=dracula" />
-</a>
+<img align="left" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kubosaka&theme=2077" />
+
+<img align="left" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kubosaka&theme=2077&exclude={exclude}" />
+
