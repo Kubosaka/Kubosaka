@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubosaka" alt="kubosaka" /></a> </p>
 
-- 📫 How to reach me **s223301@stn.nagaokaut.ac.jp**
+- 📫 How to reach me **kubosaka0907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
